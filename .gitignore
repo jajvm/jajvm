@@ -4,4 +4,6 @@
 
 # Conventional directory for build output.
 build/
+
+# Local development overrides
 pubspec_overrides.yaml
