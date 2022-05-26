@@ -71,6 +71,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.10.0"
+  cli_dialog:
+    dependency: "direct main"
+    description:
+      name: cli_dialog
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.5.0"
   cli_notify:
     dependency: "direct main"
     description:
@@ -351,6 +358,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.12.3+2"
+  prompts:
+    dependency: "direct main"
+    description:
+      name: prompts
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.0"
   pub_semver:
     dependency: transitive
     description:
