@@ -17,7 +17,7 @@ dependencies:
   console: ^4.1.0
   dcli: ^1.30.2
   jajvm_core:
-    path: ../jajvm_core
+    git: git@github.com:jajvm/jajvm_core.git
   prompts: ^2.0.0
 
 dev_dependencies:
