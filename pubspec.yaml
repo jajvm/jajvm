@@ -19,6 +19,7 @@ dependencies:
   jajvm_core:
     git: https://github.com/jajvm/jajvm_core
   prompts: ^2.0.0
+  riverpod: ^2.0.0-dev.9
 
 dev_dependencies:
   lints: ^2.0.0
